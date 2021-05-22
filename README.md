@@ -42,6 +42,8 @@ Python script for executing commands against the Https API of the 2N Verso line 
 ### Usage Example 
 
 ```
+import core
+
 username = 'test'
 password = 'testpassword'
 ip = '192.168.0.2'
